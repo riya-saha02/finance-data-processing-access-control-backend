@@ -26,7 +26,7 @@ This system serves as the core engine for a finance dashboard. It manages user a
 ### Installation & Run
 1.  **Clone the repository**:
     ```bash
-    git clone [your-repo-link]
+    git clone https://github.com/riya-saha02/finance-data-processing-access-control-backend.git
     ```
 2.  **Build and Run**:
     Open the project in IntelliJ IDEA and run `ExpenseTrackerApplication.java`, or use the terminal:
