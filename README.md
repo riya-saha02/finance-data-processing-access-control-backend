@@ -1,8 +1,5 @@
 # Finance Data Processing & Access Control Backend
 
-A robust Spring Boot backend system designed for managing financial records with strict role-based access control (RBAC). Developed as part of the **Zorvyn SDE Internship Assessment**.
-
----
 
 ## 🚀 Project Overview
 This system serves as the core engine for a finance dashboard. It manages user authentication, role-based permissions, and financial transaction processing. The architecture follows a clean, layered approach (Controller-Service-Repository) to ensure maintainability and scalability.
