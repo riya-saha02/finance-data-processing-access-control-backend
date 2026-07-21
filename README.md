@@ -8,7 +8,7 @@ This system serves as the core engine for a finance dashboard. It manages user a
 * **Java**: 17 (JDK)
 * **Framework**: Spring Boot 3.4.2
 * **Security**: Spring Security 6 with **JWT (JSON Web Token)**
-* **Database**: H2 In-Memory Database (for easy assessment evaluation)
+* **Database**: H2 In-Memory Database 
 * **ORM**: Spring Data JPA / Hibernate
 * **Documentation**: SpringDoc OpenAPI (Swagger UI)
 
